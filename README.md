@@ -56,3 +56,7 @@ connection = pymysql.connect(host = MYSQL_HOST,
 
 [Click Here](https://colab.research.google.com/github/aisawanj/Example_using_Secrets_in_Google_Colab/blob/main/Example_using_Secrets_in_Google_Colab.ipynb)
 
+## **License**
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
